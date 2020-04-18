@@ -1,0 +1,9 @@
+<START/>
+Required input format:
+<TEXT> dhṛtarāṣṭra uvāca|*</TEXT>
+<TEXT> dharmakṣetre kurukṣetre samavetā yuyutsavaḥ|</TEXT>
+<TEXT> māmakāḥ pāṇḍavāś{ }caiva kim{ }akurvata sañjaya||</TEXT>
+    <APP>\vc <LEM>māmakāḥ</LEM> \msA; māmaka \msB, mamakāḥ \msC\oo
+              <LEM>pāṇḍa°<LEM> \msA; pāṇḍu° \msB\msC</APP>
+    <TR>This is the place for the translation...</TR>
+    <NOTE>This is the place for the notes...</NOTE>
