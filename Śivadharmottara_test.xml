@@ -1,0 +1,22 @@
+
+
+<START/>
+Required input format:
+
+<TEXT> yāvadakṣarasaṃkhyānaṃ śivajñānasya pustake |</TEXT>
+<TEXT> tāvadvarṣasahasrāṇi dātā śivapure vaset ||</TEXT>
+    <APP>\vc <LEM>°saṃkhyānaṃ </LEM> \msALL; °santāna \msNKo77
+              <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\P
+              <LEM>dātā</LEM> \msALL; hotā \msGP74</APP>
+    <TR>As many letters are in the manuscript of the knowledge of Śiva,
+      so many thousand years the donor will live in the town of Śiva.</TR>
+    <NOTE>This is the place for the notes...</NOTE>
+
+    <TEXT> daśa pūrvān samuddhṛtya daśa vaṃśyāṃś ca paścimān |</TEXT>
+    <TEXT> mātāpitṛdharmapatnīḥ svarge sthāpya śivaṃ vrajet ||</TEXT>
+        <APP>\vc <LEM>vaṃśyāṃś  </LEM> \msNC45\msNK82\msGP74; vaṃśāś \msNKA12\msNK28\msNKo77\msE; vaśyāṃś \msGP43
+                  <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\P
+                  <LEM>dātā</LEM> \msALL; hotā \msGP74</APP>
+        <TR>Having rescued ten ancestors and the ten descendants,
+          having brought to Heaven [his] mother, father and lawful wife, he will attain Śiva.</TR>
+        <NOTE>This is the place for the notes...</NOTE>
