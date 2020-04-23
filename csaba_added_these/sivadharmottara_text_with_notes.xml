@@ -1,0 +1,61 @@
+<START/>
+Required input format:
+- Of course you don't need the above line, but it will ignored by the processor, 
+so no problem; my comments outside the tags will also be ignored...
+
+below you first say \vc meaning pada c, but actually the lemma is in pada a; correct it by 
+making another <APP> <LEM></LEM> </APP> section above the present one, or actually under the first line of the verse; similarly dātā should go with \vd in a separate <APP> <LEM></LEM> </APP> line; you will end up with three <APP> <LEM></LEM> </APP> lines for 
+padas a, c and d.
+
+You can put a title here if you want like:
+
+<TITLE>Śivadharmottara chapter 2</TITLE>
+
+
+For the automatic verse numbering put this here:
+<NEWCHAPTER/>
+
+You can (maybe should) put also this:
+<ANUSTUBH/>
+This performs some formatting and is also needed for correct verse numbering (mainly if you have other stanza forms...)
+
+<TEXT> yāvadakṣarasaṃkhyānaṃ śivajñānasya pustake |</TEXT>
+<TEXT> tāvadvarṣasahasrāṇi dātā śivapure vaset ||</TEXT>
+    <APP>\vc <LEM>°saṃkhyānaṃ </LEM> \msALL; °santāna \msNKo77
+              <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\P
+              <LEM>dātā</LEM> \msALL; hotā \msGP74</APP>
+    <TR>As many letters are in the manuscript of the knowledge of Śiva,
+      so many thousand years the donor will live in the town of Śiva.</TR>
+    <NOTE>This is the place for the notes...</NOTE>
+
+Below similarly make a <APP> <LEM></LEM> </APP> line for each pada
+Use a \oo after the variants of a lemma if there is another lemma in the same pada:
+this separates the two entries fo the same pada
+
+
+
+vaṃśyāṃś is in pada b so go for \vb ('verse [pada] b')
+
+    <TEXT> daśa pūrvān samuddhṛtya daśa vaṃśyāṃś ca paścimān |</TEXT>
+    <TEXT> mātāpitṛdharmapatnīḥ svarge sthāpya śivaṃ vrajet ||</TEXT>
+        <APP>\vc <LEM>vaṃśyāṃś  </LEM> \msNC45\msNK82\msGP74; vaṃśāś \msNKA12\msNK28\msNKo77\msE; vaśyāṃś \msGP43
+                  <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\P
+                  <LEM>dātā</LEM> \msALL; hotā \msGP74</APP>
+        <TR>Having rescued ten ancestors and the ten descendants,
+          having brought to Heaven [his] mother, father and lawful wife, 
+			he will attain Śiva.</TR>
+        <NOTE>This is the place for the notes...</NOTE>
+
+And use ';' only after the sigla of the accepted reading/lemma.
+Use commas for separating the non-accepted variants. This helps the program figure out which are the sigla for the lemma:  
+"; vaśyāṃś \msGP43" 
+	above should read
+", vaśyāṃś \msGP43" 
+
+Also: I would perhaps use \msP instead of \P, because \P sometimes just means 'P' for the computer, so it is safer to use \msP
+  
+And I forgot to tell you to put this at the end
+<STOP/>
+
+This now puts some stuff in which is needed for that hovering mouse trick...
+
