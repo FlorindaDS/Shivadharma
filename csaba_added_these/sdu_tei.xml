@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng-Latn">Test File</title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename">0001</idno>
+</publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Repo</repository></msIdentifier></msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="edition" xml:lang="san-Latn">
+
+
+<!-- chapter 1 -->
+<lg n="1.1" met="anuṣṭubh">
+<l n="ab"> yāvadakṣarasaṃkhyānaṃ śivajñānasya pustake </l>
+
+<app loc="1.1a"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msALL">°saṃkhyānaṃ </lem>
+     <rdg wit="#msNKo77">°santāna </rdg>
+</app>
+
+<l n="cd"> tāvadvarṣasahasrāṇi dātā śivapure vaset </l>
+</lg>
+
+<app loc="1.1c"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msNC45 #msNK82 #msE">varṣa°</lem>
+     <rdg wit="#msNCA12 #msNK28 #msNKo77 #msP">kalpa° </rdg>
+</app>
+
+<app loc="1.1d"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msALL">dātā</lem>
+     <rdg wit="#msGP74">hotā </rdg>
+</app>
+
+<lg n="1.2" met="anuṣṭubh">
+<l n="ab"> daśa pūrvān samuddhṛtya daśa vaṃśyāṃś ca paścimān </l>
+
+<app loc="1.2b"> <!-- app sections are to be cut and pasted to the end of the file.  -->
+     <lem wit="#msNC45 #msNK82 #msGP74">vaṃśyāṃś  </lem>
+     <rdg wit="#msNKA12 #msNK28 #msNKo77 #msE">vaṃśāś </rdg>
+     <rdg wit="#msGP43">vaśyāṃś </rdg>
+</app>
+
+<l n="cd"> mātāpitṛdharmapatnīḥ svarge sthāpya śivaṃ vrajet </l>
+</lg>
+
+</div>
+</body>
+</text>
+</TEI>
