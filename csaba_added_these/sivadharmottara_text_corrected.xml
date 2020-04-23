@@ -1,12 +1,11 @@
 <START/>
 
-<TITLE>Śivadharmottara chapter 2</TITLE>
+<TITLE>śivadharmottaram</TITLE>
 
 <NEWCHAPTER/>
 
-<ANUSTUBH/>
 <TEXT> yāvadakṣarasaṃkhyānaṃ śivajñānasya pustake |</TEXT>
-	<APP>\va <LEM>°saṃkhyānaṃ </LEM> \msALL; °santāna \msNKo77</APP>
+    <APP>\va <LEM>°saṃkhyānaṃ </LEM> \msALL; °santāna \msNKo77</APP>
 
 <TEXT> tāvadvarṣasahasrāṇi dātā śivapure vaset ||</TEXT>
     <APP>\vc  <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\msP</APP>
@@ -14,16 +13,18 @@
     <TR>As many letters are in the manuscript of the knowledge of Śiva,
       so many thousand years the donor will live in the town of Śiva.</TR>
     <NOTE>This is the place for the notes...</NOTE>
+    
 
+        
 
-<TEXT> daśa pūrvān samuddhṛtya daśa vaṃśyāṃś ca paścimān |</TEXT>
+<TEXT> daśa pūrvān{ }samuddhṛtya daśa vaṃśyāṃś{ }ca paścimān |</TEXT>
         <APP>\vb <LEM>vaṃśyāṃś  </LEM> \msNC45\msNK82\msGP74; 
-			vaṃśāś \msNKA12\msNK28\msNKo77\msE, vaśyāṃś \msGP43</APP>
+            vaṃśāś \msNKA12\msNK28\msNKo77\msE, vaśyāṃś \msGP43</APP>
 
 <TEXT> mātāpitṛdharmapatnīḥ svarge sthāpya śivaṃ vrajet ||</TEXT>
         <TR>Having rescued ten ancestors and the ten descendants, 
-	having brought to Heaven [his] mother, father and lawful wife, 
-			he will attain Śiva.</TR>
+    having brought to Heaven [his] mother, father and lawful wife, 
+            he will attain Śiva.</TR>
         <NOTE>This is the place for the notes...</NOTE>
 
 

@@ -9,7 +9,7 @@ padas a, c and d.
 
 You can put a title here if you want like:
 
-<TITLE>Śivadharmottara chapter 2</TITLE>
+<TITLE>Śivadharmottara</TITLE>
 
 
 For the automatic verse numbering put this here:
@@ -46,6 +46,12 @@ vaṃśyāṃś is in pada b so go for \vb ('verse [pada] b')
 			he will attain Śiva.</TR>
         <NOTE>This is the place for the notes...</NOTE>
 
+You can do this:
+pūrvān{ }samuddhṛtya
+and also
+vaṃśyāṃś{ }ca
+this will help with the Devanagari 
+
 And use ';' only after the sigla of the accepted reading/lemma.
 Use commas for separating the non-accepted variants. This helps the program figure out which are the sigla for the lemma:  
 "; vaśyāṃś \msGP43" 
@@ -53,9 +59,8 @@ Use commas for separating the non-accepted variants. This helps the program figu
 ", vaśyāṃś \msGP43" 
 
 Also: I would perhaps use \msP instead of \P, because \P sometimes just means 'P' for the computer, so it is safer to use \msP
-  
+
 And I forgot to tell you to put this at the end
 <STOP/>
-
 This now puts some stuff in which is needed for that hovering mouse trick...
 
