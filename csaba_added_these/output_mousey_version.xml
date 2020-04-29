@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="vrsa_critical03.xsl"?>
+<body>
+<TITLE>Śivadharmottara chapter 2</TITLE>
+
+<!-- chapter 1 -->
+<NEWCHAPTER/>
+
+
+<verse verseno="1.1"/><mainwrap><TEXT pada="ab"> yāvadakṣarasaṃkhyānaṃ śivajñānasya pustake  |</TEXT>
+<apparatuswrap>
+
+	<APP>1a <LEM>°saṃkhyānaṃ </LEM> <ms>∑</ms>; °santāna <ms>N<sub>Ko77</sub></ms></APP>
+
+</apparatuswrap></mainwrap><mainwrap><TEXT pada="cd"> tāvadvarṣasahasrāṇi dātā śivapure vaset  ||<vsnum>1.1</vsnum>||</TEXT>
+<apparatuswrap>
+
+    <APP>1c  <LEM>varṣa°</LEM> <ms>N<sub>C45</sub></ms><ms>N<sub>K82</sub></ms><ms>E</ms>; kalpa° <ms>N<sub>CA12</sub></ms><ms>N<sub>K28</sub></ms><ms>N<sub>Ko77</sub></ms><ms>P</ms></APP>
+
+    <APP>1d  <LEM>dātā</LEM> <ms>∑</ms>; hotā <ms>G<sub>P74</sub></ms></APP>
+
+    <TR>As many letters are in the manuscript of the knowledge of Śiva,
+
+      so many thousand years the donor will live in the town of Śiva.</TR>
+
+    <NOTE>This is the place for the notes...</NOTE>
+
+
+
+<verse verseno="1.2"/></apparatuswrap></mainwrap><mainwrap><TEXT pada="ab"> daśa pūrvān samuddhṛtya daśa vaṃśyāṃś ca paścimān  |</TEXT>
+<apparatuswrap>
+
+        <APP>2b <LEM>vaṃśyāṃś  </LEM> <ms>N<sub>C45</sub></ms><ms>N<sub>K82</sub></ms><ms>G<sub>P74</sub></ms>; 
+
+			vaṃśāś <ms>N<sub>KA12</sub></ms><ms>N<sub>K28</sub></ms><ms>N<sub>Ko77</sub></ms><ms>E</ms>, vaśyāṃś msGP43</APP>
+
+</apparatuswrap></mainwrap><mainwrap><TEXT pada="cd"> mātāpitṛdharmapatnīḥ svarge sthāpya śivaṃ vrajet  ||<vsnum>1.2</vsnum>||</TEXT>
+<apparatuswrap>
+
+        <TR>Having rescued ten ancestors and the ten descendants, 
+
+	having brought to Heaven [his] mother, father and lawful wife, 
+
+			he will attain Śiva.</TR>
+
+        <NOTE>This is the place for the notes...</NOTE>
+
+</apparatuswrap></mainwrap></body>
