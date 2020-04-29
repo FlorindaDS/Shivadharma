@@ -1,22 +1,185 @@
-
-
 <START/>
-Required input format:
+
+<TITLE>śivadharmottaram</TITLE>
+
+<NEWCHAPTER/>
+<ANUSTUBH/>
+
+<TEXT>daridraś{ }cānusāreṇa vittaśāṭhyavivarjitaḥ |</TEXT>
+    <APP>\va <LEM>daridraś</LEM> \msNC45\msNK28\msNK82\msGP74\msE; daridrāś \msNKA12\msNKo77, dariś \msGP43cm</APP>
+<TEXT>kṛtvā vidhim imaṃ bhaktyā vidyādānaphalaṃ labhet ||</TEXT>
+
+<TEXT>yasya yāvad bhaved vittaṃ sa tasyehānusārataḥ |</TEXT>
+    <APP>\va <LEM>vittaṃ</LEM> \msNKA12\msNC45\msNK28\msNK82pc\msNKo77\msGP74; vittāṃ \msNK82ac, vittas \msGP74
+          \vb <LEM>sa tasyehānusārataḥ</LEM> \msNC45\msNKA12\msNK82\msGP43\msE;
+              tattasyehānusārataḥ \msNK28, °sa tasyehanubhāyataḥ \msNKo77, tasya hānurasarataḥ \msGP74 </APP>
+<TEXT>aśāṭhyenācaret puṇyam āḍhyatulyaphalaṃ labhet ||</TEXT>
+    <APP>\vc <LEM>°ācaret</LEM> \msN\msE; °ācaran \msP </APP>
+          \vd <LEM>āḍhyatulya°</LEM> \msNC45\msNKA12\msGP74\msE;āḍhyatulyaṃ
 
 <TEXT> yāvadakṣarasaṃkhyānaṃ śivajñānasya pustake |</TEXT>
+    <APP>\va <LEM>°saṃkhyānaṃ </LEM> \msALL; °santāna \msNKo77</APP>
 <TEXT> tāvadvarṣasahasrāṇi dātā śivapure vaset ||</TEXT>
-    <APP>\vc <LEM>°saṃkhyānaṃ </LEM> \msALL; °santāna \msNKo77
-              <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\P
-              <LEM>dātā</LEM> \msALL; hotā \msGP74</APP>
-    <TR>As many letters are in the manuscript of the knowledge of Śiva,
-      so many thousand years the donor will live in the town of Śiva.</TR>
-    <NOTE>This is the place for the notes...</NOTE>
+    <APP>\vc <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\msP</APP>
+    <APP>\vd <LEM>dātā</LEM> \msALL; hotā \msGP74</APP>
+        <TR>As many letters are in the manuscript of the knowledge of Śiva,
+          so many thousand years the donor will live in the town of Śiva.</TR>
+            <NOTE>2.75-56 = KāU 67.26-28ab</NOTE>
 
-    <TEXT> daśa pūrvān samuddhṛtya daśa vaṃśyāṃś ca paścimān |</TEXT>
+<TEXT> daśa pūrvān{ }samuddhṛtya daśa vaṃśyāṃś{ }ca paścimān |</TEXT>
+    <APP>\vb <LEM>vaṃśyāṃś</LEM> \msNC45\msNK82\msGP74; vaṃśāś \msNKA12\msNK28\msNKo77\msE, vaśyāṃś \msGP43</APP>
     <TEXT> mātāpitṛdharmapatnīḥ svarge sthāpya śivaṃ vrajet ||</TEXT>
-        <APP>\vc <LEM>vaṃśyāṃś  </LEM> \msNC45\msNK82\msGP74; vaṃśāś \msNKA12\msNK28\msNKo77\msE; vaśyāṃś \msGP43
-                  <LEM>varṣa°</LEM> \msNC45\msNK82\msE; kalpa° \msNCA12\msNK28\msNKo77\P
-                  <LEM>dātā</LEM> \msALL; hotā \msGP74</APP>
-        <TR>Having rescued ten ancestors and the ten descendants,
-          having brought to Heaven [his] mother, father and lawful wife, he will attain Śiva.</TR>
-        <NOTE>This is the place for the notes...</NOTE>
+            <TR>Having rescued ten ancestors and ten descendants,
+        having brought to Heaven [his] mother, father and lawful wife,
+                he will attain Śiva.</TR>
+
+<TEXT> sāntaḥpuraparivāraḥ sarvabhṛtyasamanvitaḥ |</TEXT>
+    <APP>\va <LEM>°vāraḥ</LEM> \msNC45\msNKA12\msNK28\msNK82\msGP43\msE; °vāra \msGP74\msNKo77
+          \vb <LEM>°samanvitaḥ</LEM> \msALL; samanvitā \msGP74</APP>
+<TEXT> rājā śivapuraṃ gacched vidyādānaprabhāvataḥ ||</TEXT>
+        <APP> \vc <LEM>rājā</LEM> \msALL; divyaṃ \msGP74\oo
+                  <LEM>°puraṃ</LEM> \msALL; pure \msNKo77</APP>
+                      <TR>Surrounded by his queens, accompanied by all [his] servants, the king,
+                        through the power of the gift of knowledge, will go to the town of Śiva</TR>
+                    <NOTE> om. \msGP43</NOTE>
+
+<TEXT> vimānayānaiḥ śrīmadbhiḥ sarvakāmasamanvitaiḥ |</TEXT>
+    <APP>\va <LEM>vimānayānaiḥ </LEM> \msNKA12\msNK28\msNK82\msNKo77\msGP74\msE;
+                    vidyānayānaiḥ \msNC45, vimāyānaiḥ \msGP43cm
+          \vb <LEM>°samanvitaiḥ</LEM> \msALL; °sanvitaiḥ \msNKA12cm</APP>
+<TEXT> manojavair asaṃkhyātaiḥ krīḍate kālam{ }akṣayam || </TEXT>
+        <APP>\vc<LEM>manojavair a-</LEM> \msNKA12\msNK28\msNKo77\msGP74; manoramair na \msNC45, manoramyair a- \msNK82\msE, manojajaivar \msGP43cm</APP>
+              <TR>He will have fun for an imperishable time with countless auspicious [flying] chariots,
+                furnished with everything he desires, swift as thought.</TR>
+            <NOTE>78d dam. \msNK28</NOTE>
+
+<TEXT> paramāṣṭaguṇaiśvaryair upetaḥ sarvataḥ prabhuḥ |</TEXT>
+    <APP>\va <LEM>paramāṣṭaguṇaiśvaryair</LEM> \msALL; paramāṣṭaguṇamaiśvaryar \msNKo77cm
+      \vb <LEM>sarvataḥ</LEM> \msN\msGP43; samataḥ \msGP74</APP>
+<TEXT> sarvajñaḥ paripūrṇātmā dvitīya iva śaṅkaraḥ || </TEXT>
+    <APP>\vc <LEM>sarvajñaḥ</LEM> \msALL; sarvajña \msNKA12\oo
+              <LEM>paripūrṇātmā</LEM> \msN\msGP74; paripūrṇaś{ }ca \msGP43
+          \vd <LEM>dvitīya</LEM> \msALL; dvitīyam \msNKo77</APP>
+            <TR>He will be endowed with the sovereignty of the supreme eight qualities, powerful on everything, omniscient, fully satisfied, like a second Śaṅkara.</TR>
+
+
+<TEXT> yathāmarāṇāṃ sarveṣāṃ paramaḥ parameśvaraḥ |</TEXT>
+<TEXT> tathaiva sarvadānānāṃ vidyādānaṃ paraṃ smṛtam ||</TEXT>
+            <APP>\vc <LEM>sarvadānānāṃ </LEM> \msN\msGP74; sarvadādāna° \msGP43</APP>
+                    <TR>As the supreme Lord is supreme among all immortals, in the same way the gift of knowledge is acknowledged as supreme among all gifts. </TR>
+
+<TEXT>anenaiva vidhānena yaḥ śivajñānapustakam |</TEXT>
+<TEXT>kusumagṛhake sthāpya pūjayīta śivāśrame ||</TEXT>
+    <APP>\vc <LEM>kusuma°</LEM> \msALL ; kumuda° \msNK28\oo
+              <LEM>°gṛhake</LEM> \msN ; °āgārake \msP
+          \vd<LEM>pūjayīta</LEM> \msN\msGP43; pūjito \msGP74 </APP>
+            <TR>The one who, having placed, in exact accordance with this procedure,
+              the manuscript of the knowledge of Śiva in a house of flowers, will worship it in the hermitage of Śiva,</TR>
+
+<TEXT>āṣāḍhyāṃ pūrṇamāsyāṃ{}tu dīpamālāvibodhanaiḥ |</TEXT>
+    <APP>\va <LEM>pūrṇamāsyāṃ</LEM> \msN ; paurṇamāsyāṃ \msP </APP>
+<TEXT>vaiśākhyāṃ cāpi sampūjya vidyādānaphalaṃ labhet ||</TEXT>
+    <APP>\vc <LEM>sampūjya</LEM> \msALL; sasajya \msNK28 </APP>
+        <TR>In the day of full moon of the month  āṣāḍha, in the light of garlands of lamps, and having done worshio in the day of full moon in the month
+          Vaiśākha as well, this person will take the fruit of a gift of knowledge</TR>
+      <NOTE>pāda a: pū- dam. in \msNKA12; pāda d: —bhet dam. in \msNKA12</NOTE>
+
+<TEXT>yaḥ śrīmatpustakavaram ālekhya vinivedayet |</TEXT>
+    <APP>\va <LEM>yaḥ</LEM> \msALL; om. \msGP74cm
+          \vb <LEM>ālekhya</LEM> \msNC45\msP ; alekhyaṃ \msNKA12\msNK28</APP>
+<TEXT>śivajñānābhiyuktāya tasya puṇyaphalaṃ śṛṇu ||</TEXT>
+  <APP>\vc<LEM>°ābhiyuktāya</LEM> \msN\msGP43; °ābhiyuktāyās
+        \vd <LEM>tasya</LEM> \msN\msGP43; tasyāḥ \msGP74 </APP>
+        <TR>Listen to the fruit resulting from the merits of that person who,
+          having transcribed the best among the auspicious manuscripts, would present [it]
+          to someone who is versed in the knowledge of Śiva:</TR>
+
+<TEXT>yāvat tatpatrasaṃkhyānaṃ saṃcaye ’tīva śobhane |</TEXT>
+    <APP>\va <LEM>°patra-</LEM> \msN\msGP43 ; °putra- \msGP74
+          \vb <LEM>’tīva śobhane</LEM> \msNC45\msNKA12\msGP43 ; tīvaśobhanaṃ \msNK28 , tīvarānane \msGP74</APP>
+<TEXT>tāvad yugasahasrāṇi śivaloke mahīyate ||</TEXT>
+    <APP>\vd <LEM>mahīyate</LEM> \msN ; sa pūjyate \msP</APP>
+          <TR>As big is the number of this [manuscript’s] extremely auspicious leaves in the manuscript,
+            for so many thousand yugas he is honoured in the world of Śiva;</TR>
+
+
+<TEXT>yat patrayantrasūtrādyaṃ maṣībhājanalekhanī |</TEXT>
+    <APP>\va <LEM>yat patrayantra°</LEM> ; yat patraṃ yantra° \msNC45 , yaḥ patramātra° \msGP43 ,
+                    yaḥ putramātra° \msGP74\oo
+                    <LEM>°sūtrādyaṃ</LEM> \msALL ; sūtrādya° \msNK28
+          \vb <LEM>maṣībhājana°</LEM> ; masirāśraya° \msNKA12, masimāśraya° \msNK28\oo
+              <LEM>°lekhanī</LEM> \msN ; lekhinīṃ \msP </APP>
+<TEXT>śarayantrāsanābhyaṅgaśayyāsadbhaktavetanam ||</TEXT>
+  <APP>\vc <LEM>°āsanābhyaṅga-</LEM> \msNC45\msNKA12 ; °āsanābhyāṃgā° \msNK28 , °āstanādyaṃgam \msGP43,
+                °āsanādyaṅgaṃ \msGP74
+        \vd <LEM>°sad-</LEM> \msN ; tad° \msP </APP>
+        <TR> Having presented, according to [his] faith and wealth, even just one of the auxiliary instruments of knowledge — which [are] leaves, stands, threads and so on, ink-pot
+and pen, a śarayantra seat, unguents, beds, good food, a salary, and so on,</TR>
+        <NOTE>pāda a: —ntrasūtrā— dam. in \msNKA12</NOTE>
+
+<TEXT>ityevamādi yac{}cānyat tadartham upayujyate |</TEXT>
+    <APP>\va <LEM>yac{}cānyat</LEM> \msN\msGP43; yānyatta° \msGP74
+          \vb <LEM>upayujyate</LEM> \msN\msGP43; uyujyate \msGP43cm</APP>
+<TEXT>yadvā tadvā mahat sūkṣmaṃ vidhānena tu yad bhavet ||</TEXT>
+    <APP>vd <LEM>vidhānena</LEM> \msNC45; vināyena \msNKA12\msNK28\msP\oo
+            <LEM>tu yad</LEM> \msNC45; na tat \msNK28\msP </APP>
+          <TR>And anything else that is employed for this purpose; everything, big or small, that would conform to the procedure</TR>
+      <NOTE>pāda a: —tyevamā— dam. in \msNKA12; pāda b: —rthamu— dam. in \msNKA12;
+      pāda d: tuyatbhave— dam. in \msNKA12</NOTE>
+
+<TEXT>tad{}ekam api vidyāṅgaṃ śraddhāvittānusārataḥ |</TEXT>
+<TEXT>nivedya sa mahābhogaiḥ śivaloke mahīyate ||</TEXT>
+      <APP>\vc <LEM>nivedya</LEM> \msP ; niveda \msNC45\msNKA12\oo
+                <LEM>°bhogaiḥ</LEM> \msN\msGP43; °bhoge \msGP74 </APP>
+      <TR> — He is honoured in the world of Śiva with great enjoyments.</TR>
+
+<TEXT>pustakāstaraṇaṃ dattvā sadvastraṃ ca pramāṇataḥ |</TEXT>
+    <APP> \va <LEM>pustakāstaraṇaṃ dattvā</LEM> \msNC45\msNK28\msGP43; pustakātaraṇaṃ dattvā \msNKA12, pustakāstaradattvā sa \msGP74
+           \vb <LEM>sadvastraṃ ca</LEM> ; svahastā<.> \msNKA12, sadvastrāṃ sa \msNK28 , sadvastraś{ }ca \msP</APP>
+<TEXT>tadvāsanavitānaṃ vā śivaloke mahīyate ||</TEXT>
+    <APP><LEM>tadvāsanavitānaṃ vā</LEM> \msNC45\msNKA12; tadvāsanaṃ vitānāṃ vā \msNK28 , tadāsanaṃ vitānaṃ vā \msGP43,
+              tadāsanam adhādattvā \msGP74</APP>
+              <TR>Having donated a carpet for the manuscript and a beautiful cloth, proportionate to
+                the measures [of the manuscript], or a cover for its box, he is honoured in the
+                world of Śiva.</TR>
+          <NOTE>pāda b: ca dam. in \msNKA12</NOTE>
+
+<TEXT>yāvat{}tadvastratantūnāṃ parisaṃkhyā samantataḥ |</TEXT>
+    <APP> \va <LEMM>°tantūnāṃ</LEMM> \msALL ; °sūtrāṇāṃ \msNKA12\msNK28
+          \vb <LEM>samantataḥ</LEM> \msALL ; samuttataḥ \msNKA12</APP>
+<TEXT>tāvad{}yugasahasrāṇi mahābhogān avāpnuyāt || </TEXT>
+    <APP> \vd <LEM>mahābhogān</LEM> \msN; śivalokam \msP </APP>
+    <TR>As many are the whole number of threads in the cloth of this [manuscript], for so
+many thousand yugas he will obtain great enjoyments</TR>
+
+<TEXT>śivajñānābhiyuktāya bhaktācchādaṃ dadāti yaḥ |</TEXT>
+    <APP> \vb <LEM>bhaktācchādaṃ</LEM> \msN ; bhaktyācchādaṃ \msGP43 , bhaktāvāntaṃ \msGP74</APP>
+<TEXT>ā samāpter avicchinnaṃ vidyādānaphalaṃ labhet ||</TEXT>
+    <TR>One who offers a gift of food to one who is versed in the knowledge of Śiva will take the fruit of a gift of knowledge without interruption, until the end.</TR>
+
+<TEXT>upānacchatrakaupīnaśayyāprāvaraṇāsanam |</TEXT>
+    <APP> \vb <LEM>upānacchatra°</LEM> \msNC45\msGP43 ; upānaścatra° \msGP74 </APP>
+<TEXT>pādasnehāñjanābhyaṅgasnānabhojanabheṣajam ||</TEXT>
+    <APP> \vc <LEM>pādasnehā°</LEM> \msN ; pādapūjā \msP
+          \vd <LEM>°bheṣajam</LEM> \msN\msGP43 ; bhaiṣajaḥ \msGP74</APP>
+  <NOTE>pāda b: —sana— dam. in \msNKA12</NOTE>
+
+<TEXT>yatimātropakaraṇaṃ maṭhasammārjanāñjanam |</TEXT>
+    <APP>\vb <LEM>maṭhasammārjanāñjanam</LEM> \msNKA12\msNK28 ; maṭhasanmājīvaināñjanam \msNC45cm,
+            maṭhasammārjanādhikam \msGP43 , amuṃ sajārjjanādikaṃ \msGP74</APP>
+<TEXT>dīpāgnitoyapuṣpādyaṃ śivapustakavācanam ||</TEXT>
+    <APP> \vc <LEM>dīpāgni°</LEM> \msN\msGP74 ; dviḥpāni° \msGP43\oo
+          <LEM>°toyapuṣpādyaṃ</LEM> \msNC45\msP ; °puṣpatoyādyaṃ \msNKA12\msNK28
+          \vd <LEM>°vācanam</LEM> \msALL ; °vācakam \msNKA12</APP>
+        <NOTE>\—jī— in \msNC45 pāda b: —ī— partly deleted in the text, —jī— copied again in margine </NOTE>
+        <TR>The assistance intended only for the renunciants, [consisting of the provision of] shoes, parasols, undergarments, beds, covers and seats, oils for the feet, collyria,
+          unguents, baths, food, and medicine; cleaning and painting the monastery; the recitation of the manuscript of Śiva, accompanied by [offerings of] lamps, fire,
+          water, flowers;</TR>
+
+<TEXT>yaḥ kuryād{}etad akhilaṃ śivajñānaratātmanām |</TEXT>
+    <APP>\va <LEM>etad</LEM> \msALL ; edad \msGP74
+<TEXT>pañcānāṃ pañcavarṣāṇi vidyādānaphalaṃ labhet ||</TEXT>
+    <NOTE> pāda c: pañca° dam. in \msNK28 </NOTE>
+    <TR>The one who would regularly do this for five people whose souls rejoice in the
+      Śaiva knowledge, for five years, this one will obtain the fruit of the gift of knowledge.</TR>
+<STOP/>
