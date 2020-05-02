@@ -1,0 +1,19 @@
+List
+
+If you use a dot (.) in the apparatus (or the main text), the Devanagari LaTeX version will break. The TeX Devanagari preprocessor (devnag) doesn't like dots.
+
+Don't use ’ , use ' !
+
+Use \om\ for omitted (instead of 'om.')
+
+Trivial typos like LEMM for LEM, and a missing </APP>, worshio --> worship
+
+Please put a space between e.g. \vb AND <LEM>
+
+For the Devanagari output use { } and not {} between words
+
+I changed svahastā<.> to svahastā(.) (and to svahastā( ) in the Devanagari output) for the time being... <> should be kept for XML tags. 
+
+I usually give separate pādas separate <APP></APP> sections, they will display better, but everything still works if you put e.g. the variants for pādas a and b in one <APP></APP> section.
+
+
